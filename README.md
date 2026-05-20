@@ -13,3 +13,5 @@ Run the MCP server:
 ```bash
 uv run main.py
 ```
+Demo
+
