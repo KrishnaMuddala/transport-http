@@ -13,5 +13,7 @@ Run the MCP server:
 ```bash
 uv run main.py
 ```
-Demo
+## Demo
 
+![MCP Chat CLI demo](assets/demo.png)
+*MCP Chat running with llama3.2 via Ollama on Windows*
